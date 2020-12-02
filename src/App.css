@@ -1,0 +1,120 @@
+label {
+  display: block;
+  margin-top: 10px;
+}
+
+.card-container.card {
+  max-width: 550px !important;
+  height: 550px;
+  padding: 40px 40px;
+}
+
+.card {
+  background-color:lightgray;
+  padding: 20px 25px 30px;
+  margin: 0 auto 25px;
+  margin-top: 50px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+.profile-img-card {
+  width: 96px;
+  height: 96px;
+  margin: 0 auto 10px;
+  display: block;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+}
+.logintitle {
+  align-self: center;
+  color:black;
+  font-weight: bold;
+}
+
+.username{
+  margin-top: 40px;
+}
+
+.inputstyle{
+  border-color: black;
+  width:400px;
+  margin-left: 20px;
+}
+
+.loginbutton{
+  background-color: lightgray;
+  border-color: black;
+  width:100px;
+  margin-left: 150px;
+}
+.loginlogo{
+  margin-left: 28%;
+  width:450px;
+}
+
+.imgdashboard{
+  margin-left: 0px;
+}
+
+.headdashboard{
+  margin-left: 40%;
+}
+
+.searchdiv{
+  display:flex;
+  margin-top: 20px;
+}
+
+.searchinput{
+  width:400px;
+  height:40px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-left: 310px;
+  
+}
+
+.catogory{
+  margin-left: 30px;
+  width: 220px;
+  border-radius: 5px;
+  background-color: white;
+  border: 1px solid black;
+}
+
+.searchbutton{
+  width: 220px;
+  border-radius: 5px;
+  margin-left: 30px;
+
+}
+.latesthead{
+  margin-top: 50px;
+  margin-left: 40%;
+}
+
+.latestProduct{
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.product{
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+  color: black;
+  text-align: center;
+  padding-top: 20px;
+  font-size: 40px;
+}
+
+.tablediv{
+  margin-top: 10px;
+}
